@@ -13,3 +13,6 @@ Highlights specific strings in YouTube Livechat messages by marking them
 3. Copy the source code
 4. Open Tampermonkey and click the "Create a new script..." button
 5. Paste the code into the script window and click File -> Save
+
+## Configuration
+Inside of the script at **line 16** you can add or remove keywords that should be highlighted.
